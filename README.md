@@ -69,4 +69,14 @@ Um jogo RPG de exploração com elementos de mistério e horror psicológico:
 
 ### 💬 Sobre Mim
 
-Minha trajetória profissional é marcada pela transição do design para o desenvolvimento, trazendo uma perspectiva única onde estética e funcionalidade se complementam. Como Tech Lead, tenho liderado iniciativas de padronização de código, documentação técnica e arquitetura de software.
+Minha trajetória profissional é marcada pela transição do design para o desenvolvimento, trazendo uma perspectiva única onde estética e funcionalidade se complementam. Como profissional, tenho liderado iniciativas de padronização de código, documentação técnica e arquitetura de software.
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezhreal&show_icons=true&theme=radical)
+
+### 🔗 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaldo-ademar-85511b148)
+
+💡 *"O código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software seguindo um livro. Profissionalismo e arte vêm da compreensão dos valores que estão por trás das regras, e tendo o compromisso e apreciação pela sua arte que permitem que você aplique a disciplina necessária para alcançar os valores."* - Robert C. Martin
